@@ -27,14 +27,11 @@
       <label for="check" class="checkbtn">
         <i class="fas fa-bars"></i>
       </label>
-      <label class="logo"> <a href="./index.html" style="color: white;">Suhas Koheda Photography</a> </label>
+      <label class="logo"> <a href="https://suhassk-hash.github.io/Suhas-Koheda-Photography/index.html" style="color: white;">Suhas Koheda Photography</a> </label>
       <ul>
-        <li><a class="active" href="./index.html">Home</a></li>   
-        <li><a class="active" href="./index2.html">About Me</a></li>   
-        <li><a class="active" href="./index3.html">Portfolio</a></li>
-        <li><a class="active" href="./index4.html">Prints</a></li>
-        <li><a class="active" href="./index5.html">Contact</a></li>
-        <li><a class="active" href="https://www.instagram.com/telangana_pixelator/"><i class='fab fa-instagram-square fa-1.9x'></i></a></li>
-      </ul>
-    </nav>
-    
+        <li><a class="active" href="https://suhassk-hash.github.io/Suhas-Koheda-Photography/index.html">Home</a></li>   
+        <li><a class="active" href="https://suhassk-hash.github.io/Suhas-Koheda-Photography/index2.html">About Me</a></li>   
+        <li><a class="active" href="https://suhassk-hash.github.io/Suhas-Koheda-Photography/index3.html">Portfolio</a></li>
+        <li><a class="active" href="https://suhassk-hash.github.io/Suhas-Koheda-Photography/index4.html">Prints</a></li>
+        <li><a class="active" href="https://suhassk-hash.github.io/Suhas-Koheda-Photography/index5.html">Contact</a></li>
+        <li><a class="active" href="https://www.instagram.com/telangana_pixelator/"><i class='fab fa-instagram-square fa-1.9x'></i></a>
