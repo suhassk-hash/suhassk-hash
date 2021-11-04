@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning HTML-CSS-JAVASCRIPT
-- 📫 How to reach me: Sharmasuhas450@gmail.com or @telanagna_pixelator(Insta id)
+- 📫 How to reach me: Sharmasuhas450@gmail.com or <a class="active" href="https://www.instagram.com/telangana_pixelator/">DM me at my Instagram Account</a></li>
 - 😄 Pronouns: Suhassk-hash
 <h3 align="left">Connect with me:</h3>
 <p align="left">
