@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://www.instagram.com/p/CSwyCdxB3MO/?utm_source=ig_web_copy_link)](https://github.com/suhassk-hash)
+[![MasterHead](https://www.canva.com/design/DAEuwVtGmQE/pLaa7RDUcefMDwg6WYWW6A/view?utm_content=DAEuwVtGmQE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://github.com/suhassk-hash)
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning HTML-CSS-JAVASCRIPT
