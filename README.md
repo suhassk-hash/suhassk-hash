@@ -15,3 +15,4 @@
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suhassk-hash&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<suhassk-hash&theme=<THEME_NAME>" />
