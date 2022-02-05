@@ -7,94 +7,11 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Kalam&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://suhassk-hash.github.io/Suhas-Koheda-Photography/style.css">
     <link rel="apple-touch-icon" sizes="180x180" href="./Icons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="./Icons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="./Icons/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-  style{
-  body{
-    color: black;
-}
-.Main-Page-Headings{
-    text-align: center;
-    font-size: larger;
-  }
-  .Main-Page-Paragraphs{
-    text-align: center;
-    font-weight: 600;
-    font-size: large;
-  }
-  p{
-      font-size: medium;
-  }
-  .Social-Icons li{
-    display: inline-block;
-  }
-  .Social-Icons {
-    text-align: center;
-  }
-  .First-Page-Icon{
-    width: 30px;
-    height: 30px;
-  }
-  .Nav-Icon{
-    width: 30px;
-    height: 30px;
-    border-color: blue;
-  }
-.header-text{
-    color: black;
-    font-family: kalam;
-    text-align: center;
-    font-weight: 400;
-    filter: drop-shadow(10px 10px 10px black );
-    -webkit-filter: drop-shadow(10px 10px 10px black );
-}
-.Insta-btn{
-    font-family: kalam;
-    text-transform: capitalize;
-}
-.Web-btn{
-    font-family: kalam;
-    text-transform: capitalize;
-}
-.Git-btn{
-    font-family: kalam;
-    text-transform: capitalize;
-    
-}
-.column{
-    float:center;
-    text-align: center;
-    font-family: kalam !important;
-    font-weight: 1000;
-    font-size: x-large;
-  }
-  .row::after{
-    content:"";
-    clear:both;
-    display:table
-  }
-  @media screen and (max-width:500px){
-    .column{
-      width:100%
-    }
-}
-button{
-    width: fit-content;
-    font-size: larger;
-}
-img{
-    border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
-    border-style:solid;
-    border-color:red;
-}
-  }
 </head>
 <body>
     <h2 class="header-text">Suhas Koheda Photography</h2>
