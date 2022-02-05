@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='https://instagram.fhyd15-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/253320084_4643198532405754_8037928709103096235_n.jpg?_nc_ht=instagram.fhyd15-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2JydxX9yeGQAX_PTdMP&edm=AABBvjUBAAAA&ccb=7-4&oh=2003b46f05fe81bcc4057c85dac8b46b&oe=619739F4&_nc_sid=83d603' style="align-items:right;">
+<img src='https://i.ibb.co/jkgyTH5/image.png' style="float:left;">
 
 
 - 🔭 I’m currently working on Web Development
