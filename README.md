@@ -1,5 +1,9 @@
 
 <body>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kalam&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/suhassk-hash/Instagram-Landing-Page/style.css">
     <h2 class="header-text">Suhas Koheda Photography</h2>
     <br>
     <div >
