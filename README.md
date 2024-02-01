@@ -1,2 +1,1 @@
-
-Hi
+Namaste 👋
