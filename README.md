@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **anything that gives me knowledge**
 
-- 🤝 I’m looking for help with **Hackathons**
+- 🤝 I’m looking for help with **Hackathons and Open Source**
 
 - 👨‍💻 All of my projects are available at [https://suhassk-hash.github.io/My-Personal-Website/](https://suhassk-hash.github.io/My-Personal-Website/)
 
