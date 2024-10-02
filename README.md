@@ -30,10 +30,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)<br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suhassk-hash&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=suhassk-hash&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhassk-hash&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=suhas-koheda&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=suhas-koheda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhas-koheda&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# Holopin Badges
+[![An image of @suhaskoheda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suhaskoheda)](https://holopin.io/@suhaskoheda)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
